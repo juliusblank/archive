@@ -1,4 +1,4 @@
 archive
 =======
 
-Go to [juliusblank.github.com/archive](juliusblank.github.com/archive)
+Go to [http://juliusblank.github.com/archive/](http://juliusblank.github.com/archive/)
